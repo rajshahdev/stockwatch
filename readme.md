@@ -1,6 +1,6 @@
 ### Introduction
 
-In this repo, i'm going to make a quick and simple webpage using Python Flask, jQuery and Bootstrap.  This is a simple back-end for freont-end style microservice, except that I're also hosting a single-page app with the same API.  
+In this repo, i'm going to make a quick and simple webpage using Python Flask, Bootstrap.  This is a simple back-end for freont-end style microservice.
 
 This simple Python based microservice using Flask will returns stock quote and historical data. I'll also make a quick website using Flask's template system, called Jinja to make an easy Bootstrap 4 site.  The site will feature a graph of the stock's performance over the period of 12 months. 
 
