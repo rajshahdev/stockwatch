@@ -1,6 +1,6 @@
 ### Introduction
 
-In this repo, i'm going to make a quick and simple webpage using Python Flask, jQuery and Bootstrap.  This is a simple back-end for freont-end style microservice, except that we're also hosting a single-page app with the same API.  
+In this repo, i'm going to make a quick and simple webpage using Python Flask, jQuery and Bootstrap.  This is a simple back-end for freont-end style microservice, except that I're also hosting a single-page app with the same API.  
 
 This simple Python based microservice using Flask will returns stock quote and historical data. I'll also make a quick website using Flask's template system, called Jinja to make an easy Bootstrap 4 site.  The site will feature a graph of the stock's performance over the period of 12 months. 
 
@@ -29,4 +29,4 @@ Now everything else will be done directly from JavaScript. We will query the sto
 
 In this article we used Python and Flask to make a simple stock market API that can pull data form Yahoo Finance and then apply it to create a simple website that shows a stock market chart.
 
-
+Yet the stockwatch app is not built fully i am continue to update this repo.
