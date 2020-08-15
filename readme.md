@@ -20,11 +20,6 @@ git clone https://github.com/rajshahdev/stockwatch
 ```
 
 
-### Pulling the API Content with AJAX
-
-Now everything else will be done directly from JavaScript. We will query the stock API using jQuery's AJAX method, and get the quote and historical information. Since here are two calls, first we will get the quote, and then we will pull the history. This could also be done a little differently by pulling the quote and history simultaneously, but that's not how I set it up this time.
-
-
 ### Conclusion
 
 In this article we used Python and Flask to make a simple stock market API that can pull data form Yahoo Finance and then apply it to create a simple website that shows a stock market chart.
