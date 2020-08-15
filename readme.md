@@ -23,5 +23,3 @@ git clone https://github.com/rajshahdev/stockwatch
 ### Conclusion
 
 In this article we used Python and Flask to make a simple stock market API that can pull data form Yahoo Finance and then apply it to create a simple website that shows a stock market chart.
-
-Yet the stockwatch app is not built fully i am continue to update this repo.
